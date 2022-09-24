@@ -30,7 +30,9 @@ analysis of reports and other medical information submitted by the user.
 
 ## Project Architecture
 
-TODO : Project Architecture of the project
+Project Architecture Diagram is given below : 
+
+![Medaignostic-Project_Architecture](https://user-images.githubusercontent.com/58306412/192100966-b7c66353-97c8-48d4-8fd3-7535b1411234.png)
 
 
 ## API Reference
