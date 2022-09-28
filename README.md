@@ -9,6 +9,10 @@ information is securely and safely stored by this application. The
 users have 24/7 access to these reports. The web application also 
 makes use of AI capabilities to evaluate and provide insightful 
 analysis of reports and other medical information submitted by the user.
+After AI analysis the final reports goes through an approval service,
+where the auto generated AI reports gets verified by Doctors and Medical
+Experts before sending the insights to user. This approved report is only
+stored in database.
 
 ## Features
 
