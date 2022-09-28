@@ -36,7 +36,8 @@ stored in database.
 
 Project Architecture Diagram is given below : 
 
-![Medaignostic Project Architecture](https://user-images.githubusercontent.com/58306412/192101043-a99d3c70-284f-480d-a97e-2aec453d1a2a.jpeg)
+![Medaignostic Project Architecture](https://user-images.githubusercontent.com/58306412/192863725-dcf97913-41dc-4427-a532-c6adb286a951.jpeg)
+
 
 
 ## API Reference
